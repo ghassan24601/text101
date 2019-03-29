@@ -18,3 +18,6 @@ MonoBehaviour:
     1. Go left.
 
     2. Go right.'
+  nextStates:
+  - {fileID: 11400000, guid: 779840f9dd42e470e9dc306141dcc5f5, type: 2}
+  - {fileID: 11400000, guid: 65984f2c86aad4166898f492d31dc61b, type: 2}

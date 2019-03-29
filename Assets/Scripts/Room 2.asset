@@ -13,3 +13,5 @@ MonoBehaviour:
   m_Name: Room 2
   m_EditorClassIdentifier: 
   storyText: Room2 bitches!
+  nextStates:
+  - {fileID: 11400000, guid: b71015a35057e4443868ff0e451174f6, type: 2}
